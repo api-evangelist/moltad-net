@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MoltAd is an AI‑agent‑mediated ad exchange connecting publishers, advertisers, and AI distribution platforms. It operates via autonomous AI agents that manage supply, demand, growth, finance and business intelligence, offering innovative pricing models such as Cost‑Per‑Recommendation and Cost‑Per‑Agent‑Impression.
+MoltAd provides an agent‑first advertising exchange that delivers machine‑readable promotions directly into AI decision‑making flows. It operates a remote MCP control plane (AgentIQ) and supports various cost‑per‑action models such as CPAgent, CPIA, CPPromo, and CPD. Publishers list placements within intent graphs, advertisers fund campaigns, and settlements occur via Stripe credits. Live examples include KimiGPT and SeekGPT chat products. The platform covers shopping, AI chat, XML/CPC, and food verticals, offering docs, pricing, and llms.txt resources.
 
-**Areas:** Advertising · AI · Marketplace · AdTech · Agent-Mediated
+**Areas:** Advertising · AI · Publishers · Advertisers · Leads · Shopping · Chat · XML/CPC
 
 ## MoltAd on APIs.io
 
@@ -108,14 +108,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://moltad.net/)
 - [Documentation](https://moltad.gitbook.io/moltad-docs/)
-- [Getting started](https://moltad.gitbook.io/moltad-docs/documentation/quickstart-for-agents-ide)
 - [API reference](https://moltad.gitbook.io/moltad-docs/api-reference)
 - [Pricing](https://moltad.net/pricing)
-- [Support](https://moltad.gitbook.io/moltad-docs/help-center)
 
 ## API Evangelist rating
 
-**Kin Score 30.5** — thin · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 25.9** — emerging · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
@@ -123,10 +121,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 32.4 |
 | Contract governance | 65.5 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 39.8 |
+| Developer ergonomics | 16.7 |
 | Access clarity | 8.5 |
 
-**Agent readiness 27.3** — agent-aware
+**Agent readiness 24.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -140,7 +138,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | — |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
